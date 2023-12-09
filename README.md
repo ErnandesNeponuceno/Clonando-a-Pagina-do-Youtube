@@ -10,7 +10,7 @@ No desafio, colocamos em pratica os conceitos aprendidos em CSS, principalmente 
 
 ## 💻 Preview:
 ![Imagem do Projeto](Img/Clonando-o-youtube.png)
-- Veja como ficou o projeto acessando: [aqui](link do github pages)
+- Veja como ficou o projeto acessando: ([nesse link do GithubPages](https://ernandesneponuceno.github.io/Clonando-a-Pagina-do-Youtube/))
 
 ## 🤔 O que aprendi com esse projeto:
 - A utilizar os conceitos de Flexbox.
