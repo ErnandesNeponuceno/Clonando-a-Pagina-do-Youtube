@@ -9,7 +9,7 @@ No desafio, colocamos em pratica os conceitos aprendidos em CSS, principalmente 
 </div>
 
 ## 💻 Preview:
-![Imagem do Projeto](Img/Clonando o youtube.PNG)
+![Imagem do Projeto](Img/Clonando-o-youtube.png)
 - Veja como ficou o projeto acessando: [aqui](link do github pages)
 
 ## 🤔 O que aprendi com esse projeto:
